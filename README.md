@@ -21,4 +21,4 @@ It enables HR professionals and decision-makers to monitor attrition patterns, e
 The dashboard empowers HR teams to make data-driven decisions by tracking workforce metrics and identifying improvement areas in real time.
 It also lays the foundation for a scalable HR analytics framework that supports continuous insight generation.
 
-[Power BI Dashboard Snapshot.pdf](https://github.com/user-attachments/files/19490415/Power.BI.Dashboard.Snapshot.pdf)
+<img width="1063" alt="Screenshot 2025-03-27 at 11 34 06 AM" src="https://github.com/user-attachments/assets/dd11eba8-94e2-4c90-a761-64e4eadd87ff" />
